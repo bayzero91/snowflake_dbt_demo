@@ -12,3 +12,4 @@ sources:
     tables:
       - name: CUSTOMERS
       - name: CUSTOMER_SEGMENTS
+
